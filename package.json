@@ -10,5 +10,9 @@
   "devDependencies": {
     "serverless": "^1.26.0",
     "serverless-azure-functions": "*"
+  },
+  "dependencies": {
+    "node-fetch": "^2.0.0",
+    "uuid": "^3.2.1"
   }
 }
